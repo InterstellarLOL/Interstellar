@@ -8,6 +8,7 @@ const config = {
     // You can add multiple users by doing username: 'password'.
    Gabriel: "1234",
    Haddi: "1234",
+   Ilyaas: "1234",
   },
 };
 
