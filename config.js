@@ -9,6 +9,7 @@ const config = {
    Gabriel: "1234",
    Haddi: "1234",
    Ilyaas: "1234",
+   Neeraj: "fortnite",
   },
 };
 
